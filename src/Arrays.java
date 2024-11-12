@@ -1,5 +1,4 @@
 import java.util.Comparator;
-import exceptions.InvalidRangeException;
 
 public class Arrays {
 
